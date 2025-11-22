@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ScannerFileExample {
     public static void main(String[] args) {
-        // Имя файла (лежит рядом с классом или укажи полный путь)
+        // Имя файла
         String fileName = "src/example.txt";
 
         // try-with-resources автоматически закроет Scanner
